@@ -1,7 +1,7 @@
 # Список домашних заданий, сделанных в рамках знакомства с Python
 ДЗ №1: [ссылка](https://github.com/AntohaG98/PythonDZ1/tree/main)
 
-ДЗ №2
+ДЗ №2: [ссылка](https://github.com/AntohaG98/PythonDZ2)
 
 ДЗ №3
 
