@@ -7,7 +7,7 @@
 
 ДЗ №4: [ссылка](https://github.com/AntohaG98/PyrhonDZ4)
 
-ДЗ №5
+ДЗ №5: [ссылка]:(https://github.com/AntohaG98/PythonDZ5)
 
 ДЗ №6
 
