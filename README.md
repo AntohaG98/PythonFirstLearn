@@ -5,7 +5,7 @@
 
 ДЗ №3: [сслыка](https://github.com/AntohaG98/PythonDZ3/tree/main)
 
-ДЗ №4
+ДЗ №4: [ссылка](https://github.com/AntohaG98/PyrhonDZ4)
 
 ДЗ №5
 
