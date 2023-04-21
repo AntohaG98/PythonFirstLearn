@@ -3,7 +3,7 @@
 
 ДЗ №2: [ссылка](https://github.com/AntohaG98/PythonDZ2)
 
-ДЗ №3
+ДЗ №3: [сслыка](https://github.com/AntohaG98/PythonDZ3/tree/main)
 
 ДЗ №4
 
