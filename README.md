@@ -13,7 +13,7 @@
 
 ДЗ №7: [ссылка](https://github.com/VikramAdytia/GB_seminar_python_calc)(командный проект)
 
-ДЗ №8
+ДЗ №8: [ссылка](https://github.com/VikramAdytia/GB_seminar_python_PIS)(командный проект)
 
 ДЗ №9
 
