@@ -15,7 +15,7 @@
 
 ДЗ №8: [ссылка](https://github.com/VikramAdytia/GB_seminar_python_PIS)(командный проект)
 
-ДЗ №9
+ДЗ №9: [ссылка](https://github.com/AntohaG98/PythonDZ9)
 
 ДЗ №10
 
