@@ -17,5 +17,6 @@
 
 ДЗ №9: [ссылка](https://github.com/AntohaG98/PythonDZ9)
 
-ДЗ №10
+ДЗ №10: [ссылка](https://github.com/AntohaG98/PythonDZ10)
 
+Итоговое ДЗ: 
