@@ -9,7 +9,7 @@
 
 ДЗ №5: [ссылка](https://github.com/AntohaG98/PythonDZ5)
 
-ДЗ №6
+ДЗ №6: [ссылка](https://github.com/AntohaG98/PythonDZ6/tree/main)
 
 ДЗ №7
 
