@@ -19,4 +19,4 @@
 
 ДЗ №10: [ссылка](https://github.com/AntohaG98/PythonDZ10)
 
-Итоговое ДЗ: 
+Итоговое ДЗ: [ссылка на файл Yupiter-Notebook](https://gbcdn.mrgcdn.ru/uploads/homeworkattachment/4909302/attachment/851a18b0f307202e703aa8764d8ad687.ipynb)
