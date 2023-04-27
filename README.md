@@ -11,7 +11,7 @@
 
 ДЗ №6: [ссылка](https://github.com/AntohaG98/PythonDZ6/tree/main)
 
-ДЗ №7
+ДЗ №7: [ссылка](https://github.com/VikramAdytia/GB_seminar_python_calc)(командный проект)
 
 ДЗ №8
 
